@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color:crimson;
+}
+
+p {
+    color:whitesmoke;
+}
+h3 {
+    color: chocolate;
+}
+h4 {
+    color: blue;
+}
+li {
+    color: whitesmoke;
+}
+.image {
+    border-style:double;
+    color: rgb(149, 7, 7);
+}
+header {
+    text-align: center;
+    color:whitesmoke;
+    font-size: 20px;
+}
+html {
+    background:darkolivegreen;
+}
